@@ -1,0 +1,13 @@
+class jiomart{
+static void product(){
+System.out.println("productname");
+System.out.println("Ragi");
+}
+static void product(String productname){
+System.out.println(productname);
+}
+class runsss{
+public static void main(String[] values){
+jiomart.product();
+}
+}

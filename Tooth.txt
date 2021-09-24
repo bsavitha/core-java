@@ -1,0 +1,8 @@
+class Tooth{
+public static void main(String[] values){
+Toothbrush tb=new Toothbrush();
+String toothbrush=ref.color();
+
+
+}
+}
